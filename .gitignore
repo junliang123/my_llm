@@ -37,3 +37,7 @@ generated.txt
 # OS
 .DS_Store
 Thumbs.db
+
+HerbsClassification/data/raw
+
+CIFAR-10/data/cifar-10-python.tar.gz

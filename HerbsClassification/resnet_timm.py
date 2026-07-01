@@ -6,7 +6,7 @@ from torch.utils.data import DataLoader
 from torchvision import transforms
 
 from dataset import HerbDataset
-from model import ResNet
+from HerbsClassification.resnet_model import ResNet
 
 BATCH_SIZE = 16
 NUM_EPOCHS = 50
